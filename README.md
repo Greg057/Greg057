@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
-<h3 align="center">Business student graduate transitioning to tech and software engineering</h3>
+<h3 align="center">Business graduate transitioning to tech and software engineering</h3>
 
 - 🔭 I’m currently working on [an iOS habit tracker app](https://github.com/Greg057/HabitTrackerApp)
 
