@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
 <h3 align="center">Business graduate transitioning to tech and software engineering</h3>
 
-- 🔭 I’m currently working on [an iOS habit tracker app](https://github.com/Greg057/HabitTrackerApp)
+- 🔭 I’m currently working on doing the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science)
 
-- 🌱 I’m currently learning **Swift, SwiftUI, iOS development**
+- 🌱 I’m currently learning **computation, imperative programming, data structures and algorithms & more...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
