@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
-<h3 align="center">Business graduate transitioning to tech and software engineering</h3>
+<h3 align="center">Business graduate transitioning to Computer Science and Software Engineering</h3>
 
 - 🔭 I’m currently working on doing the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science)
 
