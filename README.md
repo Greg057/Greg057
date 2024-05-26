@@ -8,19 +8,16 @@
 <h3 align="left">University level CS courses taken:</h3>
 <table>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg" alt="Harvard University Logo" height="40" width="40"></td>
     <td><b>Harvard University</b></td>
     <td><b>CS50: Introduction to Computer Science</b></td>
     <td>11 weeks at 15 hours per week</td>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg" alt="Harvard University Logo" height="40" width="40"></td>
     <td><b>Harvard University</b></td>
     <td><b>CS50P: CS50's Introduction to Programming with Python</b></td>
     <td>9 weeks at 6 hours per week</td>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" alt="MIT Logo" height="40" width="40"></td>
     <td><b>Massachusetts Institute of Technology (MIT)</b></td>
     <td><b>6.00.1: Introduction to Computer Science and Programming Using Python</b></td>
     <td>9 weeks at 15 hours per week</td>
