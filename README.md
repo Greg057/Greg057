@@ -30,7 +30,7 @@
     <td>14-16 hours/week</td>
   </tr>
   <tr>
-    <td><b>Uni of British Columbia (UBC)</b></td>
+    <td><b>The University of British Columbia (UBC)</b></td>
     <td><b>Systematic Program Design</b></td>
     <td>13 weeks</td>
     <td>8-10 hours/week</td>
