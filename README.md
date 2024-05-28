@@ -6,21 +6,37 @@
 <h3 align="left">University level CS courses taken:</h3>
 <table>
   <tr>
+    <th>University</th>
+    <th>Course</th>
+    <th>Duration</th>
+    <th>Effort</th>
+  </tr>
+  <tr>
     <td><b>Harvard University</b></td>
     <td><b>CS50: Introduction to Computer Science</b></td>
-    <td>11 weeks at 15 hours per week</td>
+    <td>11 weeks</td>
+    <td>10-20 hours/week</td>
   </tr>
   <tr>
     <td><b>Harvard University</b></td>
     <td><b>CS50P: CS50's Introduction to Programming with Python</b></td>
-    <td>9 weeks at 6 hours per week</td>
+    <td>10 weeks</td>
+    <td>3-9 hours/week</td>
   </tr>
   <tr>
     <td><b>Massachusetts Institute of Technology (MIT)</b></td>
     <td><b>6.00.1: Introduction to Computer Science and Programming Using Python</b></td>
-    <td>9 weeks at 15 hours per week</td>
+    <td>9 weeks</td>
+    <td>14-16 hours/week</td>
+  </tr>
+  <tr>
+    <td><b>Uni of British Columbia (UBC)</b></td>
+    <td><b>Systematic Program Design</b></td>
+    <td>13 weeks</td>
+    <td>8-10 hours/week</td>
   </tr>
 </table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
