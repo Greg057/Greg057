@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
 <h3 align="center">Business graduate transitioning to Computer Science and Software Engineering</h3>
 
-- 🔭 I’m currently working on doing the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science)
-
-- 🌱 I’m currently learning **computation, imperative programming, data structures and algorithms & more...**
+- 🔭 I’m currently doing the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science) (see table below)
 
 <h3 align="left">University level CS courses taken:</h3>
 <table>
