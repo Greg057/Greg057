@@ -6,14 +6,14 @@
 <h3 align="left">University level CS courses taken:</h3>
 <table>
   <tr>
-    <th style="text-align:center;">Status</th>
+    <th align="center">Status</th>
     <th>University</th>
     <th>Course</th>
     <th>Duration</th>
     <th>Effort</th>
   </tr>
   <tr>
-    <td style="text-align:center;">✅</td>
+    <td align="center">✅</td>
     <td><b>Harvard University</b></td>
     <td><b>CS50: Introduction to Computer Science</b></td>
     <td>11 weeks</td>
