@@ -37,29 +37,36 @@
     <td align="center">✅</td>
     <td><b>Frankfurt School of Finance & Management</b></td>
     <td><b>Database Systems & Data Management</b></td>
-    <td>9 weeks</td>
-    <td>14-16 hours/week</td>
+    <td>10 weeks</td>
+    <td>15 hours/week</td>
   </tr>
   <tr>
     <td align="center">✅</td>
     <td><b>Frankfurt School of Finance & Management</b></td>
     <td><b>Systems Development</b></td>
-    <td>9 weeks</td>
-    <td>14-16 hours/week</td>
+    <td>10 weeks</td>
+    <td>15 hours/week</td>
   </tr>
   <tr>
     <td align="center">✅</td>
     <td><b>Frankfurt School of Finance & Management</b></td>
     <td><b>Information and Architecture Management</b></td>
-    <td>9 weeks</td>
-    <td>14-16 hours/week</td>
+    <td>10 weeks</td>
+    <td>15 hours/week</td>
   </tr>
   <tr>
-    <td align="center">🚧</td>
+    <td align="center">✅</td>
     <td><b>The University of British Columbia (UBC)</b></td>
     <td><b>Systematic Program Design</b></td>
     <td>13 weeks</td>
     <td>8-10 hours/week</td>
+  </tr>
+  <tr>
+    <td align="center">🚧</td>
+    <td><b>University of Washington</b></td>
+    <td><b>Programming Languages - Part A, B, C</b></td>
+    <td>11 weeks</td>
+    <td>4-8 hours/week</td>
   </tr>
 </table>
 
