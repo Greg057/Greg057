@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grégoire Meyer</h1>
-<h3 align="center">Master of Computer Science student</h3>
+<h3 align="left">Master of Computer Science student</h3>
 
 - 🔭 I’m currently pursuing a Master of Computer Science at the University of Wollongong.
 - 💼 Previously worked as a Software Engineer Intern at BMW Group.
