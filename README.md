@@ -2,8 +2,7 @@
 <h3 align="left">Master of Computer Science student</h3>
 
 - 🔭 I’m currently pursuing a Master of Computer Science at the University of Wollongong.
-- 💼 Previously worked as a Software Engineer Intern at BMW Group.
-- 🌱 My previous internships also include Business Development at Amazon and Strategy Consulting at KPMG.
+- 💼 Interned at Amazon, BMW Group and KPMG.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
